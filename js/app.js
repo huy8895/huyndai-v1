@@ -174,10 +174,10 @@ function initFooter(){
 		'      <div class="container">' +
 		'        <div class="row justify-content-between">' +
 		'          <div class="col-lg-4 col-md-6 footer-widget footer-about">' +
-		'            <h3 class="widget-title">About Us</h3>' +
-		'            <img loading="lazy" class="footer-logo" src="images/footer-logo.png" alt="Constra">' +
-		'            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut' +
-		'              labore et dolore magna aliqua.</p>' +
+		'            <h3 class="widget-title">VÀI DÒNG GIỚI THIỆU</h3>' +
+		'            <img loading="lazy" class="footer-logo" src="images/logo.png" alt="Constra">' +
+		'            <p>Với tiêu chí uy tín, chất lượng và đội ngũ nhân viên giỏi, được đào tạo theo hướng chuyên nghiệp, dịch vụ hoàn hảo, giá cả hợp lý. ' +
+		'				Chúng tôi sẽ mang đến cho khách hàng những sản phẩm tốt nhất.</p>' +
 		'            <div class="footer-social">' +
 		'              <ul>' +
 		'                <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i' +
@@ -191,24 +191,17 @@ function initFooter(){
 		'            </div><!-- Footer social end -->' +
 		'          </div><!-- Col end -->' +
 		'          <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">' +
-		'            <h3 class="widget-title">Working Hours</h3>' +
+		'            <h3 class="widget-title">HOTLINE</h3>' +
 		'            <div class="working-hours">' +
-		'              We work 7 days a week, every day excluding major holidays. Contact us if you have an emergency, with our' +
-		'              Hotline and Contact form.' +
-		'              <br><br> Monday - Friday: <span class="text-right">10:00 - 16:00 </span>' +
-		'              <br> Saturday: <span class="text-right">12:00 - 15:00</span>' +
-		'              <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span>' +
+		'             	0906208887' +
+		'				<br>nguyenanh.saodocps@gmail.com' +
 		'            </div>' +
 		'          </div><!-- Col end -->' +
 		'          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">' +
-		'            <h3 class="widget-title">Services</h3>' +
-		'            <ul class="list-arrow">' +
-		'              <li><a href="service-single.html">Pre-Construction</a></li>' +
-		'              <li><a href="service-single.html">General Contracting</a></li>' +
-		'              <li><a href="service-single.html">Construction Management</a></li>' +
-		'              <li><a href="service-single.html">Design and Build</a></li>' +
-		'              <li><a href="service-single.html">Self-Perform Construction</a></li>' +
-		'            </ul>' +
+		'            <h3 class="widget-title">THÔNG TIN LIÊN HỆ </h3>' +
+		'			<p>Tòa nhà SAODO BUILDINGS, số 2/46 phố Trường Lâm, ' +
+		'				Phường Đức Giang, Quận Long Biên, Thành Phố Hà Nội, Việt Nam ' +
+		'			</p>	' +
 		'          </div><!-- Col end -->' +
 		'        </div><!-- Row end -->' +
 		'      </div><!-- Container end -->' +
