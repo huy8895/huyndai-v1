@@ -102,7 +102,7 @@ function initHeader() {
 		
 		'                              <div id="navbar-collapse" class="collapse navbar-collapse">' +
 		'                                  <ul class="nav navbar-nav mr-auto">' +
-		'                                      <li class="nav-item"><a class="nav-link" href="">Trang chủ</a></li>' +
+		'                                      <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li>' +
 		
 		'                                      <li class="nav-item dropdown">' +
 		'                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Công ty <i' +
