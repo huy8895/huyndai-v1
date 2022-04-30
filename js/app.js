@@ -211,26 +211,9 @@ function initFooter(){
 		'        <div class="row align-items-center">' +
 		'          <div class="col-md-12">' +
 		'            <div class="copyright-info text-center">' +
-		'              <span>Copyright &copy; <script>' +
-		'                  document.write(new Date().getFullYear())' +
-		'                </script>, Designed &amp; Developed by <a href="https://themefisher.com">Themefisher</a></span>' +
+		'              <span>© Copyright 2022. Hyundai | Công ty cổ phần động cơ Huyndai Việt Nam. All rights Reserved</span>' +
 		'            </div>' +
 		'          </div>' +
-		'          <div class="col-md-12">' +
-		'            <div class="copyright-info text-center">' +
-		'              <span>Distributed by <a href="https://themewagon.com/">Themewagon</a></span>' +
-		'            </div>' +
-		'          </div>' +
-		'          <div class="col-md-12">' +
-		'            <div class="footer-menu text-center">' +
-		'              <ul class="list-unstyled mb-0">' +
-		'                <li><a href="about.html">About</a></li>' +
-		'                <li><a href="team.html">Our people</a></li>' +
-		'                <li><a href="faq.html">Faq</a></li>' +
-		'                <li><a href="news-left-sidebar.html">Blog</a></li>' +
-		'                <li><a href="pricing.html">Pricing</a></li>' +
-		'              </ul>' +
-		'            </div>' +
 		'          </div>' +
 		'        </div><!-- Row end -->' +
 		
