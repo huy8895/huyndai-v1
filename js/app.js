@@ -69,7 +69,7 @@ function initHeader() {
 		'                                      <div class="info-box">' +
 		'                                          <div class="info-box-content">' +
 		'                                              <p class="info-box-title">Email</p>' +
-		'                                              <p class="info-box-subtitle">office@gmail.com</p>' +
+		'                                              <p class="info-box-subtitle">nguyenanh.saodocps@gmail.com</p>' +
 		'                                          </div>' +
 		'                                      </div>' +
 		'                                  </li>' +
