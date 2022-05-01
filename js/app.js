@@ -121,7 +121,7 @@ function initHeader() {
 		'                                              <i class="fa fa-angle-down"></i></a>' +
 		'                                          <ul class="dropdown-menu" role="menu">' +
 		'                                              <li><a href="products.html">Tất cả các sản phẩm</a></li>' +
-		// '                                              <li><a href="projects-single.html">Projects Single</a></li>' +
+		'                                              <li><a href="products-new-products.html">New Product</a></li>' +
 		'                                          </ul>' +
 		'                                      </li>' +
 		
