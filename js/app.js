@@ -69,7 +69,7 @@ function initHeader() {
 		'                                      <div class="info-box">' +
 		'                                          <div class="info-box-content">' +
 		'                                              <p class="info-box-title">Email</p>' +
-		'                                              <p class="info-box-subtitle">nguyenanh.saodocps@gmail.com</p>' +
+		'                                              <p class="info-box-subtitle">vnhyundaiep@gmail.comm</p>' +
 		'                                          </div>' +
 		'                                      </div>' +
 		'                                  </li>' +
@@ -120,8 +120,8 @@ function initHeader() {
 		'                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">SẢN PHẨM' +
 		'                                              <i class="fa fa-angle-down"></i></a>' +
 		'                                          <ul class="dropdown-menu" role="menu">' +
-		'                                              <li><a href="projects.html">Projects All</a></li>' +
-		'                                              <li><a href="projects-single.html">Projects Single</a></li>' +
+		'                                              <li><a href="products.html">Tất cả các sản phẩm</a></li>' +
+		// '                                              <li><a href="projects-single.html">Projects Single</a></li>' +
 		'                                          </ul>' +
 		'                                      </li>' +
 		
@@ -194,7 +194,7 @@ function initFooter(){
 		'            <h3 class="widget-title">HOTLINE</h3>' +
 		'            <div class="working-hours">' +
 		'             	0906208887' +
-		'				<br>nguyenanh.saodocps@gmail.com' +
+		'				<br>vnhyundaiep@gmail.com' +
 		'            </div>' +
 		'          </div><!-- Col end -->' +
 		'          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">' +
