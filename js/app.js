@@ -122,6 +122,7 @@ function initHeader() {
 		'                                          <ul class="dropdown-menu" role="menu">' +
 		'                                              <li><a href="products.html">Tất cả các sản phẩm</a></li>' +
 		'                                              <li><a href="products-new-products.html">New Product</a></li>' +
+		'                                              <li><a href="products-engine-line-up.html">Engine Line-up</a></li>' +
 		'                                          </ul>' +
 		'                                      </li>' +
 		
