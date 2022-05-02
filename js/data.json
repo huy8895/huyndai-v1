@@ -1,0 +1,52 @@
+[
+  {
+    "Fueltype": "Gasoline",
+    "imgPath": "Gasoline",
+    "Engine": [
+      "Kappa 1.0",
+      "77ps/6,200rpm",
+      "9.6kg·m/3,500rpm",
+      "998cc"
+    ]
+  },
+  {
+    "Fueltype": "Gasoline",
+    "imgPath": "Gasoline",
+    "Engine": [
+      "Gamma 1.6",
+      "55.5ps/2,800rpm",
+      "14.2kg·m/2,800rpm",
+      "1,591cc"
+    ]
+  },
+  {
+    "Fueltype": "Diesel",
+    "imgPath": "Gasoline",
+    "Engine": [
+      "U 1.6",
+      "136.6ps/4,000rpm",
+      "33.3kg·m/1,750~2,000rpm",
+      "1,598cc"
+    ]
+  },
+  {
+    "Fueltype": "Gasoline",
+    "imgPath": "Gasoline",
+    "Engine": [
+      "Gamma 1.6",
+      "55.5ps/2,800rpm",
+      "14.2kg·m/2,800rpm",
+      "1,591cc"
+    ]
+  },
+  {
+    "Fueltype": "Gasoline",
+    "imgPath": "Gasoline",
+    "Engine": [
+      "Gamma 1.6",
+      "55.5ps/2,800rpm",
+      "14.2kg·m/2,800rpm",
+      "1,591cc"
+    ]
+  }
+]
