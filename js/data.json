@@ -1,7 +1,7 @@
 [
   {
     "Fueltype": "Gasoline",
-    "imgPath": "Gasoline",
+    "imgPath": "Kappa 1.0",
     "Engine": [
       "Kappa 1.0",
       "77ps/6,200rpm",
@@ -11,7 +11,7 @@
   },
   {
     "Fueltype": "Gasoline",
-    "imgPath": "Gasoline",
+    "imgPath": "Gamma 1.6",
     "Engine": [
       "Gamma 1.6",
       "55.5ps/2,800rpm",
