@@ -6,8 +6,8 @@ export let data_generator = {
             'images/products/4-generator/AG30/1.png',
             'images/products/4-generator/AG30/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D4BH (AG30) 43kW/1,500rpm - 43kW/1,800rpm',
+        description: 'T2 2.6 Generator engine',
         data: {
             General: ["Engine model [Code]",
                 "Fuel type",
@@ -94,8 +94,8 @@ export let data_generator = {
             'images/products/4-generator/AG39/1.png',
             'images/products/4-generator/AG39/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D4BB (AG39) 33kW/1,800rpm',
+        description: 'T2 2.6 Generator engine',
         data: {
             General: [
                 "Engine model [Code]",
@@ -177,15 +177,15 @@ export let data_generator = {
         }
 
     },
-    KS95: {
-        name: '',
+    EM69: {
+        name: 'EM69',
         images: [
-            'images/products/4-generator/ks95/slide.png',
-            'images/products/4-generator/ks95/1.png',
-            'images/products/4-generator/ks95/2.png',
+            'images/products/4-generator/EM69/slide.png',
+            'images/products/4-generator/EM69/1.png',
+            'images/products/4-generator/EM69/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D4AK (EM69) 44kW/1,500rpm - 60kW/1,800rpm',
+        description: '4D 3.3 Generator engine',
         data: {
             General: [],
             Lubrication: [],
@@ -207,15 +207,15 @@ export let data_generator = {
         }
 
     },
-    KS95: {
-        name: '',
+    EH2X: {
+        name: 'EH2X',
         images: [
-            'images/products/4-generator/ks95/slide.png',
-            'images/products/4-generator/ks95/1.png',
-            'images/products/4-generator/ks95/2.png',
+            'images/products/4-generator/EH2X/slide.png',
+            'images/products/4-generator/EH2X/1.png',
+            'images/products/4-generator/EH2X/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D6AZ (EH2X) 173kW/1,500rpm - 191kW/1,800rpm',
+        description: 'Q 11.1 Generator engine',
         data: {
             General: [],
             Lubrication: [],
@@ -237,15 +237,15 @@ export let data_generator = {
         }
 
     },
-    KS95: {
-        name: '',
+    EH9G: {
+        name: 'EH9G',
         images: [
-            'images/products/4-generator/ks95/slide.png',
-            'images/products/4-generator/ks95/1.png',
-            'images/products/4-generator/ks95/2.png',
+            'images/products/4-generator/EH9G/slide.png',
+            'images/products/4-generator/EH9G/1.png',
+            'images/products/4-generator/EH9G/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D6CC (EH9G) 331kW/1,500rpm - 390kW/1,800rpm',
+        description: 'L 12.3 Generator engine',
         data: {
             General: [],
             Lubrication: [],
@@ -265,67 +265,6 @@ export let data_generator = {
                 ""
             ],
         }
-
-    },
-    KS95: {
-        name: '',
-        images: [
-            'images/products/4-generator/ks95/slide.png',
-            'images/products/4-generator/ks95/1.png',
-            'images/products/4-generator/ks95/2.png',
-        ],
-        title: '',
-        description: '',
-        data: {
-            General: [],
-            Lubrication: [],
-            Cooling: [],
-            Engine: [],
-            Flywheel:[],
-            Fuel: [],
-            Starting: [],
-            Certification: [],
-            Application: [
-                "Forklift",
-                ""
-            ],
-            Notice: [
-                "In accordance with the standard/criteria in the region," +
-                " the specifications of its engine may be subject to change.",
-                ""
-            ],
-        }
-
-    },
-    KS95: {
-        name: '',
-        images: [
-            'images/products/4-generator/ks95/slide.png',
-            'images/products/4-generator/ks95/1.png',
-            'images/products/4-generator/ks95/2.png',
-        ],
-        title: '',
-        description: '',
-        data: {
-            General: [],
-            Lubrication: [],
-            Cooling: [],
-            Engine: [],
-            Flywheel:[],
-            Fuel: [],
-            Starting: [],
-            Certification: [],
-            Application: [
-                "Forklift",
-                ""
-            ],
-            Notice: [
-                "In accordance with the standard/criteria in the region," +
-                " the specifications of its engine may be subject to change.",
-                ""
-            ],
-        }
-
     },
 
 
