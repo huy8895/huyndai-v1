@@ -120,6 +120,7 @@ function initHeader() {
 		                                              <li><a href="products-engine-line-up.html">Engine Line-up</a></li> 
 		                                              <li><a href="product-forklift.html">Forklift Construction</a></li> 
 		                                              <li><a href="product-generator.html">Generator Engine</a></li> 
+		                                              <li><a href="product-agricultural.html">Agricultural Machinery</a></li> 
 		                                          </ul> 
 		                                      </li> 
 		
