@@ -90,7 +90,7 @@ export let data_generator = {
     AG39: {
         name: 'AG39',
         images: [
-            'images/products/4-generator/AG39/slide.png',
+            'images/products/4-generator/AG39/0.png',
             'images/products/4-generator/AG39/1.png',
             'images/products/4-generator/AG39/2.png',
         ],
@@ -180,7 +180,7 @@ export let data_generator = {
     EM69: {
         name: 'EM69',
         images: [
-            'images/products/4-generator/EM69/slide.png',
+            'images/products/4-generator/EM69/0.png',
             'images/products/4-generator/EM69/1.png',
             'images/products/4-generator/EM69/2.png',
         ],
@@ -272,7 +272,7 @@ export let data_generator = {
     EH2X: {
         name: 'EH2X',
         images: [
-            'images/products/4-generator/EH2X/slide.png',
+            'images/products/4-generator/EH2X/0.png',
             'images/products/4-generator/EH2X/1.png',
             'images/products/4-generator/EH2X/2.png',
         ],
@@ -364,7 +364,7 @@ export let data_generator = {
     EH9G: {
         name: 'EH9G',
         images: [
-            'images/products/4-generator/EH9G/slide.png',
+            'images/products/4-generator/EH9G/0.png',
             'images/products/4-generator/EH9G/1.png',
             'images/products/4-generator/EH9G/2.png',
         ],
