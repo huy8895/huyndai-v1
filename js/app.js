@@ -121,28 +121,29 @@ function initHeader() {
 		                                              <li><a href="product-forklift.html">Forklift Construction</a></li> 
 		                                              <li><a href="product-generator.html">Generator Engine</a></li> 
 		                                              <li><a href="product-agricultural.html">Agricultural Machinery</a></li> 
+		                                              <li><a href="product-marine.html">Marine Engine</a></li> 
 		                                          </ul> 
 		                                      </li> 
 		
-		                                      <li class="nav-item dropdown"> 
-		                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dịch Vụ <i 
-		                                                  class="fa fa-angle-down"></i></a> 
+<!--		                                      <li class="nav-item dropdown"> -->
+<!--		                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dịch Vụ -->
+<!--		                                          <i class="fa fa-angle-down"></i></a> -->
 		<!--                                          <ul class="dropdown-menu" role="menu">--> 
 		<!--                                              <li><a href="services.html">Services All</a></li>--> 
 		<!--                                              <li><a href="service-single.html">Services Single</a></li>--> 
 		<!--                                          </ul>--> 
-		                                      </li> 
+<!--		                                      </li> -->
 		
 		
-		                                      <li class="nav-item dropdown"> 
-		                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tin Tức <i 
-		                                                  class="fa fa-angle-down"></i></a> 
+<!--		                                      <li class="nav-item dropdown"> -->
+<!--		                                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tin Tức <i -->
+<!--		                                                  class="fa fa-angle-down"></i></a> -->
 		<!--                                          <ul class="dropdown-menu" role="menu">--> 
 		<!--                                              <li><a href="news-left-sidebar.html">News Left Sidebar</a></li>--> 
 		<!--                                              <li><a href="news-right-sidebar.html">News Right Sidebar</a></li>--> 
 		<!--                                              <li><a href="news-single.html">News Single</a></li>--> 
 		<!--                                          </ul>--> 
-		                                      </li> 
+<!--		                                      </li> -->
 		
 		                                      <li class="nav-item"><a class="nav-link" href="contact.html">Liên hệ</a></li> 
 		                                  </ul> 

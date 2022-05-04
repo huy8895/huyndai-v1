@@ -284,9 +284,9 @@ export let data_marine = {
     PP98: {
         name: 'PP98',
         images: [
-            'images/products/6-marine/BC97/0.png',
-            'images/products/6-marine/BC97/1.png',
-            'images/products/6-marine/BC97/2.png',
+            'images/products/6-marine/PP98/0.png',
+            'images/products/6-marine/PP98/1.png',
+            'images/products/6-marine/PP98/2.png',
         ],
         title: 'D6HA (PP98) 410ps / 168kg·m',
         description: 'H 10.0 Marine engine',

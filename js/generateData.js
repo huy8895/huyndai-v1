@@ -1,6 +1,7 @@
 import {data_forklift} from './data/data_forklift.js';
 import {data_generator} from './data/data_generator.js';
 import {data_agricultural} from './data/data_agricultural.js';
+import {data_marine} from './data/data_marine.js';
 
 getCurrentFileName();
 
@@ -11,11 +12,14 @@ function getCurrentFileName(){
         case 'product-forklift.html':
             initContainerForForklift(data_forklift);
             break;
+        case 'product-generator.html':
+            initContainerForGenerator(data_generator);
+            break;
         case 'product-agricultural.html':
             initContainerForForklift(data_agricultural);
             break;
-        case 'product-generator.html':
-            initContainerForGenerator(data_generator);
+        case 'product-marine.html':
+            initContainerForForklift(data_marine);
             break;
         default:
             console.log("error")
