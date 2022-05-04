@@ -88,7 +88,6 @@ function generateTable(engine) {
 }
 
 function initImages(listImgs) {
-    //imgSource = images/products/3-forklift/ks95/slide.png
     let imgTemplate = '';
     listImgs.forEach(imgSource => {
         imgTemplate += `<div class="item">
