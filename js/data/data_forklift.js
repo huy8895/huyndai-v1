@@ -2,9 +2,9 @@ export let data_forklift = {
     KS95: {
         name: 'KS95',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/KS95/slide.png',
+            'images/products/3-forklift/KS95/1.png',
+            'images/products/3-forklift/KS95/2.png',
         ],
         title: 'D4HB (KS95) 65ps / 24kg·m',
         description: 'R 2.2 Forklift engine',
@@ -83,9 +83,9 @@ export let data_forklift = {
     KK91: {
         name: 'KK91',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/KK91/slide.png',
+            'images/products/3-forklift/KK91/1.png',
+            'images/products/3-forklift/KK91/2.png',
         ],
         title: 'D4HB (KK91) 65ps / 24kg·m',
         description: 'R 2.2 Forklift engine',
@@ -163,9 +163,9 @@ export let data_forklift = {
     CF11: {
         name: 'CF11',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/CF11/slide.png',
+            'images/products/3-forklift/CF11/1.png',
+            'images/products/3-forklift/CF11/2.png',
         ],
         title: 'L4KB(LPG) 70.6ps / 20.2kg·m (CF11)',
         description: 'Theta 2.4 Forklift engine',
@@ -244,9 +244,9 @@ export let data_forklift = {
     CF30: {
         name: 'CF30',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/CF30/slide.png',
+            'images/products/3-forklift/CF30/1.png',
+            'images/products/3-forklift/CF30/2.png',
         ],
         title: 'L4KB(Bi-Fuel) Customer tuning (CF30)',
         description: 'Theta 2.4 Forklift engine',
@@ -325,9 +325,9 @@ export let data_forklift = {
     AG42: {
         name: 'AG42',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/AG42/slide.png',
+            'images/products/3-forklift/AG42/1.png',
+            'images/products/3-forklift/AG42/2.png',
         ],
         title: 'D4BB (AG42) 60ps / 17.3kg·m',
         description: 'T2 2.6 Forklift engine',
@@ -407,9 +407,9 @@ export let data_forklift = {
     JU91: {
         name: 'JU91',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/JU91/slide.png',
+            'images/products/3-forklift/JU91/1.png',
+            'images/products/3-forklift/JU91/2.png',
         ],
         title: 'D4CC (JU91) 74ps / 35kg·m',
         description: 'E 2.9 Forklift engine',
@@ -488,9 +488,9 @@ export let data_forklift = {
     JU93: {
         name: 'JU93',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/JU93/slide.png',
+            'images/products/3-forklift/JU93/1.png',
+            'images/products/3-forklift/JU93/2.png',
         ],
         title: 'D4CC (JU93) 110ps / 42kg·m',
         description: 'E 2.9 Forklift engine',
@@ -569,9 +569,9 @@ export let data_forklift = {
     EM2G: {
         name: 'EM2G',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/EM2G/slide.png',
+            'images/products/3-forklift/EM2G/1.png',
+            'images/products/3-forklift/EM2G/2.png',
         ],
         title: 'D4DD (EM2G) 100ps / 38kg·m',
         description: '4D 3.9 Forklift engine',
@@ -650,9 +650,9 @@ export let data_forklift = {
     QF99: {
         name: 'QF99',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/QF99/slide.png',
+            'images/products/3-forklift/QF99/1.png',
+            'images/products/3-forklift/QF99/2.png',
         ],
         title: 'D4GB (QF99) 110ps / 42kg·m',
         description: 'F 3.9 Forklift engine',
@@ -730,9 +730,9 @@ export let data_forklift = {
     EH3N: {
         name: 'EH3N',
         images: [
-            'images/products/3-forklift/ks95/slide.png',
-            'images/products/3-forklift/ks95/1.png',
-            'images/products/3-forklift/ks95/2.png',
+            'images/products/3-forklift/EH3N/slide.png',
+            'images/products/3-forklift/EH3N/1.png',
+            'images/products/3-forklift/EH3N/2.png',
         ],
         title: 'D6AC (EH3N) 280ps / 120kg·m',
         description: 'Q 11.1 Excavator engine',
