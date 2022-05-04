@@ -125,7 +125,7 @@ function generateContainerForForklift(engine) {
     return `
   <div class="container border">
         <div class="row text-center">
-        <div class="col-lg-12">
+        <div class="col-lg-12 border">
           <h2 class="section-title">${engine.description}</h2>
           <h3 class="column-title ">${engine.title}</h3>
         </div>
@@ -189,7 +189,7 @@ function generateContainerForGenerator(engine) {
     return `
   <div class="container border">
       <div class="row text-center">
-        <div class="col-lg-12">
+        <div class="col-lg-12 border">
           <h2 class="section-title">${engine.description}</h2>
           <h3 class="column-title ">${engine.title}</h3>
         </div>
