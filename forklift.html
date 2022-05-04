@@ -64,70 +64,7 @@
 </div><!-- Banner area end --> 
 
 <section id="main-container" class="main-container">
-  <div class="container">
 
-    <div class="row">
-      <div class="col-lg-8">
-        <div id="page-slider" class="page-slider small-bg">
-          <div class="item">
-            <img loading="lazy" class="img-fluid" src="images/products/3-forklift/ks95/slide.png" alt="project-image"/>
-          </div>
-          <div class="item">
-            <img loading="lazy" class="img-fluid" src="images/products/3-forklift/ks95/1.png" alt="project-image"/>
-          </div>
-          <div class="item">
-            <img loading="lazy" class="img-fluid" src="images/products/3-forklift/ks95/2.png" alt="project-image"/>
-          </div>
-        </div><!-- Page slider end -->
-      </div>
-      <div class="col-lg-4 mt-5 mt-lg-0">
-        <h3 class="column-title mrt-0">D4HB (KS95) 65ps / 24kg·m</h3>
-        <p>4D 3.9 Forklift engine</p>
-        <p><b>• General Specification</b></p>
-        <table class="table table-sm table-striped " id="KS95_General">
-        </table>
-      </div>
-
-    </div>
-    <div class="row">
-      <div class="col-lg-6 mt-5 mt-lg-0">
-        <p><b>• Lubrication system</b></p>
-        <table class="table table-sm table-striped " id="KS95_Lubrication">
-        </table>
-
-        <p><b>• Cooling system</b></p>
-        <table class="table table-sm table-striped " id="KS95_Cooling">
-        </table>
-
-        <p><b>• Engine speed</b></p>
-        <table class="table table-sm table-striped " id="KS95_Engine">
-        </table>
-
-        <p><b>• Fuel system</b></p>
-        <table class="table table-sm table-striped " id="KS95_Fuel">
-        </table>
-      </div>
-
-      <div class="col-lg-6 mt-5 mt-lg-0">
-        <p><b>• Starting & electrical system</b></p>
-        <table class="table table-sm table-striped " id="KS95_Starting">
-        </table>
-
-        <p><b>• Certification information</b></p>
-        <table class="table table-sm table-striped " id="KS95_Certification">
-        </table>
-
-        <p><b>• Application</b></p>
-        <table class="table table-sm table-striped " id="KS95_Application">
-        </table>
-
-        <p><b>• Notice</b></p>
-        <table class="table table-sm table-striped " id="KS95_Notice">
-        </table>
-      </div>
-    </div>
-
-  </div><!-- Conatiner end -->
 </section><!-- Main container end -->
 
     <footer id="footer" class="footer bg-overlay">
@@ -158,90 +95,107 @@
       <script src="js/script.js"></script>
       <script src="js/app.js"></script>
     <script>
+
       let data = {
         KS95: {
-          General: ["Engine model [Code]",
-            "Fuel type",
-            "Engine type ",
-            "Aspiration",
-            "Bore × Stroke (mm)",
-            "Displacement (cc)",
-            "Max. Torque (kg·m/rpm)",
-            "Rated Power (ps/rpm)",
-            "Compression ratio",
-            "Firing or der",
-            "Injection timing",
-            "Weight dry (kg)",
-            "Dimension(L×W×H) mm",
-            "D4HB [KS95]",
-            "Diesel",
-            "4 In-line, DOHC",
-            "T.C.I",
-            "85.4 x 96",
-            "2,199",
-            "24 / 1,600",
-            "65 / 2,300",
-            "16.0 : 1",
-            "1-3-4-2",
-            "ECU Control",
-            "210 (approx.)",
-            "653 x 622 x 709",],
-          Lubrication: [
-            "Max allowable oil temp.",
-            "Engine oil capacity",
-            "130℃",
-            "6.3ℓ",],
-          Cooling: [
-            "Cooling water capacity",
-            "Thermostat open temp.",
-            "5.0ℓ (ENG)",
-            "82℃",
-          ],
-          Engine: [
-            "No load low idle speed",
-            "No load high idle speed",
-            "820 rpm",
-            "2,500 rpm",
-          ],
-          Fuel: [
-            "CRDI ",
-            "Bosch",
-          ],
-          Starting: [
-            "Starter capacity",
-            "Alternator capacity ",
-            "Preheat system",
-            "12V - 2kW",
-            "13.5V - 90A",
-            "Glow plug",
-          ],
-          Certification: [
-            "Emission regulation ",
-            "KOR Tier 4",
-          ],
-          Application: [
-            "Forklift",
-            ""
-          ],
-          Notice: [
-            "In accordance with the standard/criteria in the region," +
-            " the specifications of its engine may be subject to change.",
-            ""
-          ],
+            name: 'KS95',
+            images: [
+                'images/products/3-forklift/ks95/slide.png',
+                'images/products/3-forklift/ks95/1.png',
+                'images/products/3-forklift/ks95/2.png',
+            ],
+            title: 'D4HB (KS95) 65ps / 24kg·m',
+            description: 'R 2.2 Forklift engine',
+            data: {
+                General: ["Engine model [Code]",
+                    "Fuel type",
+                    "Engine type ",
+                    "Aspiration",
+                    "Bore × Stroke (mm)",
+                    "Displacement (cc)",
+                    "Max. Torque (kg·m/rpm)",
+                    "Rated Power (ps/rpm)",
+                    "Compression ratio",
+                    "Firing or der",
+                    "Injection timing",
+                    "Weight dry (kg)",
+                    "Dimension(L×W×H) mm",
+                    "D4HB [KS95]",
+                    "Diesel",
+                    "4 In-line, DOHC",
+                    "T.C.I",
+                    "85.4 x 96",
+                    "2,199",
+                    "24 / 1,600",
+                    "65 / 2,300",
+                    "16.0 : 1",
+                    "1-3-4-2",
+                    "ECU Control",
+                    "210 (approx.)",
+                    "653 x 622 x 709",],
+                Lubrication: [
+                    "Max allowable oil temp.",
+                    "Engine oil capacity",
+                    "130℃",
+                    "6.3ℓ",],
+                Cooling: [
+                    "Cooling water capacity",
+                    "Thermostat open temp.",
+                    "5.0ℓ (ENG)",
+                    "82℃",
+                ],
+                Engine: [
+                    "No load low idle speed",
+                    "No load high idle speed",
+                    "820 rpm",
+                    "2,500 rpm",
+                ],
+                Fuel: [
+                    "CRDI ",
+                    "Bosch",
+                ],
+                Starting: [
+                    "Starter capacity",
+                    "Alternator capacity ",
+                    "Preheat system",
+                    "12V - 2kW",
+                    "13.5V - 90A",
+                    "Glow plug",
+                ],
+                Certification: [
+                    "Emission regulation ",
+                    "KOR Tier 4",
+                ],
+                Application: [
+                    "Forklift",
+                    ""
+                ],
+                Notice: [
+                    "In accordance with the standard/criteria in the region," +
+                    " the specifications of its engine may be subject to change.",
+                    ""
+                ],
+            }
+
         }
 
       };
+      initContainer();
 
-      loadData();
+      function initContainer() {
+          Object.keys(data).forEach(engineName => {
+              console.log('engine:  ' + engineName);
+              console.log('engine title:  ' + data[engineName].title);
+              console.log('engine description:  ' + data[engineName].description);
+              generateContainer(data[engineName]);
+              generateTable(data[engineName])
+          })
+      }
 
-      function loadData() {
-         generateTable('KS95') ;
-      };
 
-      function generateThread(tableId, fieldName) {
-        console.log(tableId, fieldName)
-        let array = data[tableId][fieldName];
-        console.log(array)
+
+      function generateThread(array) {
+          console.log('generateThread: ', array)
         let keyPair = getKeyPair(0, array);
         return `<thead>
           <tr>
@@ -267,11 +221,8 @@
         }
       }
 
-      function generateRows(tableId, fieldName) {
-        console.log('generateRows: ' + tableId + " ; " + fieldName)
-        let array = data[tableId][fieldName];
-
-
+      function generateRows(array) {
+        console.log('generateRows: ' + array )
         let rows = '';
         for (let i = 1; i < array.length/2; i++) {
           let keyPair = getKeyPair(i, array);
@@ -280,24 +231,102 @@
         return rows;
       }
 
-      function generateBody(tableId, fieldName) {
-        console.log('generateBody: ' + tableId)
+      function generateBody(array) {
         return `<tbody>
-          ${generateRows(tableId,fieldName)}
+          ${generateRows(array)}
         </tbody>`;
       }
 
-      function generateEachTable(tableId, fieldName) {
-        let thread = generateThread(tableId, fieldName);
-        let body = generateBody(tableId, fieldName);
-        document.getElementById(tableId + "_" + fieldName).innerHTML = thread + body;
+      function generateEachTable(tableId, arrayData) {
+        let thread = generateThread(arrayData);
+        let body = generateBody(arrayData);
+        document.getElementById(tableId).innerHTML = thread + body;
       }
 
-      function generateTable(tableId) {
-        Object.keys(data[tableId]).forEach(fieldName => {
-          console.log('tableId fieldName:  ' + fieldName);
-          generateEachTable(tableId, fieldName);
-        })
+      function generateTableId(engineName, fieldName){
+         return  engineName + '_' + fieldName;
+      }
+
+      function generateTable(engine) {
+          Object.keys(engine.data).forEach(field => {
+              let tableId = generateTableId(engine.name, field);
+              let arrayDatum = engine.data[field];
+              return generateEachTable(tableId, arrayDatum);
+          })
+      }
+
+      function initImages(listImgs) {
+          //imgSource = images/products/3-forklift/ks95/slide.png
+          let imgTemplate = '';
+          listImgs.forEach(imgSource => {
+              imgTemplate += `<div class="item">
+            <img loading="lazy" class="img-fluid" src="${imgSource}" alt="project-image"/>
+          </div>`
+          })
+          return imgTemplate;
+      }
+
+      //D4HB (KS95) 65ps / 24kg·m
+      //4D 3.9 Forklift engine
+      function generateContainer(engine) {
+
+        document.getElementById('main-container').innerHTML =
+                `
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div id="page-slider" class="page-slider small-bg">
+          ${initImages(engine.images)}
+        </div><!-- Page slider end -->
+      </div>
+      <div class="col-lg-4 mt-5 mt-lg-0">
+        <h3 class="column-title mrt-0">${engine.title}</h3>
+        <p>${engine.description}</p>
+        <p><b>• General Specification</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_General">
+        </table>
+      </div>
+
+    </div>
+    <div class="row">
+      <div class="col-lg-6 mt-5 mt-lg-0">
+        <p><b>• Lubrication system</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Lubrication">
+        </table>
+
+        <p><b>• Cooling system</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Cooling">
+        </table>
+
+        <p><b>• Engine speed</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Engine">
+        </table>
+
+        <p><b>• Fuel system</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Fuel">
+        </table>
+      </div>
+
+      <div class="col-lg-6 mt-5 mt-lg-0">
+        <p><b>• Starting & electrical system</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Starting">
+        </table>
+
+        <p><b>• Certification information</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Certification">
+        </table>
+
+        <p><b>• Application</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Application">
+        </table>
+
+        <p><b>• Notice</b></p>
+        <table class="table table-sm table-striped " id="${engine.name}_Notice">
+        </table>
+      </div>
+    </div>
+
+  </div>`
       }
 
 
