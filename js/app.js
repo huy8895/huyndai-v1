@@ -122,6 +122,7 @@ function initHeader() {
 		                                              <li><a href="product-generator.html">Generator Engine</a></li> 
 		                                              <li><a href="product-agricultural.html">Agricultural Machinery</a></li> 
 		                                              <li><a href="product-marine.html">Marine Engine</a></li> 
+		                                              <li><a href="product-longBlock.html">Long Block</a></li> 
 		                                          </ul> 
 		                                      </li> 
 		
