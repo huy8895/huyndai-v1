@@ -23,13 +23,13 @@ function initTopBar(){
 		                  <div class="col-lg-4 col-md-4 top-social text-center text-md-right"> 
 		                      <ul class="list-unstyled"> 
 		                          <li> 
-		                              <a title="Facebook" href="https://facebbok.com/themefisher.com"> 
+		                              <a title="Facebook" href="#"> 
 		                                  <span class="social-icon"><i class="fab fa-facebook-f"></i></span> 
 		                              </a> 
-		                              <a title="Twitter" href="https://twitter.com/themefisher.com"> 
+		                              <a title="Twitter" href="#"> 
 		                                  <span class="social-icon"><i class="fab fa-twitter"></i></span> 
 		                              </a> 
-		                              <a title="Instagram" href="https://instagram.com/themefisher.com"> 
+		                              <a title="Instagram" href="#"> 
 		                                  <span class="social-icon"><i class="fab fa-instagram"></i></span> 
 		                              </a> 
 		                          </li> 
@@ -118,8 +118,8 @@ function initHeader() {
 		                                              <li><a href="products.html">Tất cả các sản phẩm</a></li> 
 		                                              <li><a href="products-new-products.html">New Product</a></li> 
 		                                              <li><a href="products-engine-line-up.html">Engine Line-up</a></li> 
-		                                              <li><a href="forklift.html">Forklift Construction</a></li> 
-		                                              <li><a href="generator.html">Generator Engine</a></li> 
+		                                              <li><a href="product-forklift.html">Forklift Construction</a></li> 
+		                                              <li><a href="product-generator.html">Generator Engine</a></li> 
 		                                          </ul> 
 		                                      </li> 
 		
@@ -178,13 +178,13 @@ function initFooter(){
 						Chúng tôi sẽ mang đến cho khách hàng những sản phẩm tốt nhất.</p> 
 		            <div class="footer-social"> 
 		              <ul> 
-		                <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i 
+		                <li><a href="#" aria-label="Facebook"><i 
 		                      class="fab fa-facebook-f"></i></a></li> 
-		                <li><a href="https://twitter.com/themefisher" aria-label="Twitter"><i class="fab fa-twitter"></i></a> 
+		                <li><a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a> 
 		                </li> 
-		                <li><a href="https://instagram.com/themefisher" aria-label="Instagram"><i 
+		                <li><a href="#" aria-label="Instagram"><i 
 		                      class="fab fa-instagram"></i></a></li> 
-		                <li><a href="https://github.com/themefisher" aria-label="Github"><i class="fab fa-github"></i></a></li> 
+		                <li><a href="#" aria-label="Github"><i class="fab fa-github"></i></a></li> 
 		              </ul> 
 		            </div><!-- Footer social end --> 
 		          </div><!-- Col end --> 

@@ -7,10 +7,11 @@ function getCurrentFileName(){
     let path = window.location.pathname;
     let page = path.split("/").pop();
     switch (page){
-        case 'forklift.html':
+        case 'product-forklift.html':
+        case 'product-agricultural.html':
             initContainerForForklift(data_forklift);
             break;
-        case 'generator.html':
+        case 'product-generator.html':
             initContainerForGenerator(data_generator);
             break;
         default:
