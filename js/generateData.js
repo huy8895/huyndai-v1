@@ -1,5 +1,6 @@
 import {data_forklift} from './data/data_forklift.js';
 import {data_generator} from './data/data_generator.js';
+import {data_agricultural} from './data/data_agricultural.js';
 
 getCurrentFileName();
 
@@ -8,8 +9,10 @@ function getCurrentFileName(){
     let page = path.split("/").pop();
     switch (page){
         case 'product-forklift.html':
-        case 'product-agricultural.html':
             initContainerForForklift(data_forklift);
+            break;
+        case 'product-agricultural.html':
+            initContainerForForklift(data_agricultural);
             break;
         case 'product-generator.html':
             initContainerForGenerator(data_generator);

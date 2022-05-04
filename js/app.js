@@ -64,7 +64,7 @@ function initHeader() {
 		                                      <div class="info-box"> 
 		                                          <div class="info-box-content"> 
 		                                              <p class="info-box-title">Email</p> 
-		                                              <p class="info-box-subtitle">vnhyundaiep@gmail.comm</p> 
+		                                              <p class="info-box-subtitle">vnhyundaiep@gmail.com</p> 
 		                                          </div> 
 		                                      </div> 
 		                                  </li> 
@@ -185,7 +185,6 @@ function initFooter(){
 		                </li> 
 		                <li><a href="#" aria-label="Instagram"><i 
 		                      class="fab fa-instagram"></i></a></li> 
-		                <li><a href="#" aria-label="Github"><i class="fab fa-github"></i></a></li> 
 		              </ul> 
 		            </div><!-- Footer social end --> 
 		          </div><!-- Col end --> 
