@@ -162,8 +162,8 @@ export let data_generator = {
                 "Glow plug",
             ],
             Certification: [
-                "Emission regulation",
-                ""
+                "Emission regulation ",
+                "-",
             ],
             Application: [
                 "Forklift",
@@ -450,7 +450,5 @@ export let data_generator = {
             ],
         }
     },
-
-
 };
 
