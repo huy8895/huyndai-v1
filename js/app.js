@@ -119,6 +119,7 @@ function initHeader() {
 		                                              <li><a href="products-new-products.html">New Product</a></li> 
 		                                              <li><a href="products-engine-line-up.html">Engine Line-up</a></li> 
 		                                              <li><a href="forklift.html">Forklift Construction</a></li> 
+		                                              <li><a href="generator.html">Generator Engine</a></li> 
 		                                          </ul> 
 		                                      </li> 
 		

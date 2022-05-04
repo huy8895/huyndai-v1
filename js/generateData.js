@@ -1,4 +1,5 @@
 import {data_forklift} from './data/data_forklift.js';
+import {data_generator} from './data/data_generator.js';
 
 getCurrentFileName();
 
@@ -8,7 +9,10 @@ function getCurrentFileName(){
     switch (page){
         case 'forklift.html':
             initContainer(data_forklift);
-            break
+            break;
+        case 'generator.html':
+            initContainer(data_generator);
+            break;
         default:
             console.log("error")
     }
