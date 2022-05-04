@@ -6,8 +6,8 @@ export let data_agricultural = {
             'images/products/5-agricultural/BC97/1.png',
             'images/products/5-agricultural/BC97/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'G4FC (BC97) 55.5ps / 14.2kg·m',
+        description: 'Gamma 1.6 Speed sprayer engine',
         data: {
             General: [
                 "Engine model [Code]",
@@ -88,8 +88,8 @@ export let data_agricultural = {
             'images/products/5-agricultural/AG90/1.png',
             'images/products/5-agricultural/AG90/2.png',
         ],
-        title: '',
-        description: '',
+        title: 'D4BB (AG90) 53ps / 16.8kg·m',
+        description: 'T2 2.6 Speed sprayer engine',
         data: {
             General: ["Engine model [Code]",
                 "Fuel type",
