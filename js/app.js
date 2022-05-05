@@ -56,7 +56,7 @@ function initHeader() {
 		                                      <div class="info-box"> 
 		                                          <div class="info-box-content"> 
 		                                              <p class="info-box-title">HOTLINE</p> 
-		                                              <p class="info-box-subtitle">(+84) 906-208-887</p> 
+		                                              <p class="info-box-subtitle">(+84) 965-756-698</p> 
 		                                          </div> 
 		                                      </div> 
 		                                  </li> 
@@ -193,7 +193,7 @@ function initFooter(){
 		          <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0"> 
 		            <h3 class="widget-title">HOTLINE</h3> 
 		            <div class="working-hours"> 
-		             	(+84) 906-208-887
+		             	(+84) 965-756-698
 						<br>vnhyundaiep@gmail.com 
 		            </div> 
 		          </div><!-- Col end --> 
