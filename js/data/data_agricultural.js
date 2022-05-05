@@ -67,7 +67,7 @@ export let data_agricultural = {
                 "-",
             ],
             Certification: [
-                "Emission regulation -",
+                "Emission regulation ", "-"
             ],
             Application: [
                 "Speed sprayer",
